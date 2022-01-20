@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "количество пробелов", "количество пробелов\количество пробелов.csproj", "{9E3BFE59-384D-4221-A0C6-7F1CD67B5354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3BFE59-384D-4221-A0C6-7F1CD67B5354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3BFE59-384D-4221-A0C6-7F1CD67B5354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3BFE59-384D-4221-A0C6-7F1CD67B5354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3BFE59-384D-4221-A0C6-7F1CD67B5354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAFCD17D-E8C5-40E7-9169-8CC936D0851A}
+	EndGlobalSection
+EndGlobal
